@@ -1,0 +1,21 @@
+.card {
+background-color: black;
+    padding: 30px;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    box-shadow: 0px 10px 20px;
+    border-radius: 6px;
+    margin: 30px 0px;
+
+}
+
+.card img {
+      width: 205px;
+}
+
+.card h3 {
+  color: white;
+  margin-top: 50px;
+  font-weight: lighter;
+}
